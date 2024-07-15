@@ -1,3 +1,5 @@
+# An implementation of the MFCC feature extraction using the MFCC module from torchaudio.transforms
+
 import torch
 import torchaudio
 import matplotlib.pyplot as plt
